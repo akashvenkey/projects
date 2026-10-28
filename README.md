@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <a href="https://github.com/akashvenkey/projects">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,2563EB,38BDF8&height=220&section=header&text=Web%20Application%20Suites&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Responsive%20Portals%20for%20Food%20Cafe%2C%20Healthcare%20%26%20Rapido%20Mobility&descSize=16&descAlignY=60&descAlign=50" alt="Web Application Suites Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Web%20Application%20Suites&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Responsive%20Portals%20for%20Food%20Cafe%2C%20Healthcare%20and%20Rapido%20Mobility&descSize=16&descAlignY=60&descAlign=50" alt="Web Application Suites Banner" width="100%" />
 </a>
 
 
@@ -181,7 +181,7 @@ Suggestions for UI enhancements, animations, or mobile responsive breakpoints ar
 <div align="center">
 
 <a href="https://github.com/akashvenkey/projects">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,2563EB,38BDF8&height=100&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=100&section=footer" alt="Footer Banner" width="100%" />
 </a>
 
 
