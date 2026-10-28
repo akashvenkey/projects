@@ -1,6 +1,15 @@
 ﻿<div align="center">
 
+<a href="https://github.com/akashvenkey/projects">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,2563EB,38BDF8&height=220&section=header&text=Web%20Application%20Suites&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Responsive%20Portals%20for%20Food%20Cafe%2C%20Healthcare%20%26%20Rapido%20Mobility&descSize=16&descAlignY=60&descAlign=50" alt="Web Application Suites Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/projects](https://github.com/akashvenkey/projects)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2Fprojects-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/projects)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/projects.git)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -171,6 +180,15 @@ Suggestions for UI enhancements, animations, or mobile responsive breakpoints ar
 
 <div align="center">
 
+<a href="https://github.com/akashvenkey/projects">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,2563EB,38BDF8&height=100&section=footer" alt="Footer Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/projects](https://github.com/akashvenkey/projects)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2Fprojects-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/projects)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/projects.git)
 
 </div>
